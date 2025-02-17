@@ -24,6 +24,9 @@ class Product {
     }
 }
 
+
+
+
 public class WebScraper {
     private static final String URL = "https://example.com/products"; // Replace with actual website URL
     private static final double PRICE_THRESHOLD = 50.0;
